@@ -1,4 +1,6 @@
-# Operator-Overloading
+### EX NO:06
+### DATE:
+# <p align="center"> Operator-Overloading</p>
 
 ## Aim:
  To write a C# program to find the volume of a box using operator overloading
@@ -50,7 +52,7 @@ class example
 ```
  
 ## Output:
-![image](https://user-images.githubusercontent.com/75235128/170470308-8fe5f176-8c25-49d0-be1d-c0909b4a9e18.png)
+![170470308-8fe5f176-8c25-49d0-be1d-c0909b4a9e18](https://user-images.githubusercontent.com/75235477/174753974-952ef79f-a4c5-4918-ae28-bc2b5f2cba2a.png)
 
 ## Result:
 Thus a C# program to find the volume of a box using operator overloading is written and executed sucessfully.
